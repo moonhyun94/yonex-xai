@@ -1,4 +1,5 @@
 # yonex-xai
+Course Project XAI 2023-2
 ### Finetuned model
 Finetuned model available at https://huggingface.co/Mo-oN/donut-base-DO
 ### Training
